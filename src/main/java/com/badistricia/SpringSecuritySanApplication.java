@@ -10,7 +10,7 @@ public class SpringSecuritySanApplication {
     public static void main(String[] args) {
 
         ConfigurableApplicationContext run = SpringApplication.run(SpringSecuritySanApplication.class, args);
-        System.out.println(111);
+
     }
 
 }
